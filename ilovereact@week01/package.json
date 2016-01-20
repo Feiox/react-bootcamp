@@ -1,0 +1,11 @@
+{
+  "name": "ilovereact",
+  "version": "1.0.0",
+  "description": "I Love React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Feiox",
+  "license": "ISC"
+}
