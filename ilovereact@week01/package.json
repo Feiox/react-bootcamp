@@ -7,5 +7,14 @@
     "test": "test"
   },
   "author": "Feiox",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^6.0.2",
+    "browser-sync": "^2.11.1",
+    "postcss-cli": "^2.1.0",
+    "postcss-import": "^7.0.0"
+  },
+  "dependencies": {
+    "normalize.css": "^3.0.3"
+  }
 }
